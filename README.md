@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahonyodhran
 - 👀 I’m interested in sports, gaming
 - 🌱 I’m currently learning Java, JavaScript, SQL in college
-  - 💞️ I’m looking to collaborate on projects relating to personal finance
+- 💞️ I’m looking to collaborate on projects relating to personal finance
 - 📫 How to reach me @odhranmahony on Twitter
 
 <!---
