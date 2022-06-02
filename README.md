@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mahonyodhran
-- 👀 I’m interested in sports (F1, Golf, Running, Soccer, GAA), gaming and music
-- 🌱 I’m currently learning Java, C#, Python, JavaScript, SQL in college alongside a couple of other things
-- 💞️ I’m looking to collaborate on projects relating to my interests mentioned above or something personal finance related
-- 📫 Reach me @odhranmahony on Twitter
+
