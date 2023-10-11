@@ -6,7 +6,7 @@ Software Developer
 
 Working as a software developer in the financial sector. 
 
-Develop in Python, Java and JavaScript.
+Develop in Python, Java and C#.
 
 * 🖥️  See my portfolio at [My Website](http://odhranmahony.com)
 
