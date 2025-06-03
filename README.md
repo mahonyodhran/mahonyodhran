@@ -4,8 +4,6 @@ Hi 👋 My name is Odhran O'Mahony!
 Software Developer
 ------------------
 
-Working as a software developer in the financial sector. 
+Working as a cloud software engineer for Siemens.
 
-Develop in Java, Python and C#.
-
-Looking to levergae Go in personal projects.
+Primarily develop in Go, Java, Python & TypeScript/JavaScript.
